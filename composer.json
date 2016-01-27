@@ -1,0 +1,7 @@
+{
+  "require" : {
+
+    "parsecsv/php-parsecsv": "0.4.5"
+
+  }
+}
